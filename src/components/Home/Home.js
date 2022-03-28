@@ -28,7 +28,7 @@ class Home extends Component {
         const {name} = this.state;
 
         console.log(name);
-       
+
 
         //console.log(name);
         return (
